@@ -1,6 +1,9 @@
-# esdb
+<img width="494" height="134" alt="eeeex" src="https://github.com/user-attachments/assets/443f20ce-2b88-49ca-958c-c61262ef3bbe" />
 
-enterprise security decision benchmark
+<br/>
+
+
+#
 
 esdb tests how models classify incidents, connect endpoint events, classify network flows and apply authorization policies to evidence.
 
